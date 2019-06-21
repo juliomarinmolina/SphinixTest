@@ -5,6 +5,7 @@ QElectroTech documentation
 ==========================
 
 This is the official documentation from QElectroTech 0.7.
+Esto es una prueba de edicion online directamrente desde la web d eGitHub
 
 Select language to start.
 
